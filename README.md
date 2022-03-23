@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Gudwayne
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML5 & CSS, Javascript, JQUERY...
-- 💞️ I’m looking to collaborate on mini projects
 - 📫 How to reach me jonahchujorgodwin@gmail.com
 
 <!---
